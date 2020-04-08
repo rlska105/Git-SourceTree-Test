@@ -9,5 +9,9 @@ public class Calculator {
         return m - n;
     }
 
+    int divide(int h, int g){
+        return h - g;
+    }
+
 
 }

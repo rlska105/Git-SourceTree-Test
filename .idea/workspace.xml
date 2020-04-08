@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c0fcada-59ca-4dcf-a921-66fcbcde629e" name="Default Changelist" comment="" />
+    <list default="true" id="3c0fcada-59ca-4dcf-a921-66fcbcde629e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/test/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/test/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/test/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/test/CalculatorTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +15,16 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -47,7 +61,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CalculatorTest.subtract">
+  <component name="RunManager" selected="JUnit.CalculatorTest.divide">
     <configuration name="CalculatorTest.add" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -84,6 +98,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CalculatorTest.divide" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SourceTreeTest.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.test" />
+      <option name="MAIN_CLASS_NAME" value="com.example.test.CalculatorTest" />
+      <option name="METHOD_NAME" value="divide" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CalculatorTest.subtract" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SourceTreeTest.test" />
       <extension name="coverage">
@@ -102,6 +132,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CalculatorTest.divide" />
         <item itemvalue="JUnit.CalculatorTest.subtract" />
         <item itemvalue="JUnit.CalculatorTest.add" />
         <item itemvalue="Gradle.CalculatorTest.add" />
@@ -126,30 +157,30 @@
       <screen x="0" y="23" width="2048" height="1075" />
     </state>
     <state x="624" y="225" key="#Project_Structure/0.23.2048.1075@0.23.2048.1075" timestamp="1586313652156" />
-    <state width="2006" height="295" key="GridCell.Tab.0.bottom" timestamp="1586315187267">
+    <state width="2006" height="295" key="GridCell.Tab.0.bottom" timestamp="1586315458096">
       <screen x="0" y="23" width="2048" height="1075" />
     </state>
-    <state width="2006" height="295" key="GridCell.Tab.0.bottom/0.23.2048.1075@0.23.2048.1075" timestamp="1586315187267" />
-    <state width="2006" height="295" key="GridCell.Tab.0.center" timestamp="1586315187266">
+    <state width="2006" height="295" key="GridCell.Tab.0.bottom/0.23.2048.1075@0.23.2048.1075" timestamp="1586315458096" />
+    <state width="2006" height="295" key="GridCell.Tab.0.center" timestamp="1586315458095">
       <screen x="0" y="23" width="2048" height="1075" />
     </state>
-    <state width="2006" height="295" key="GridCell.Tab.0.center/0.23.2048.1075@0.23.2048.1075" timestamp="1586315187266" />
-    <state width="2006" height="295" key="GridCell.Tab.0.left" timestamp="1586315187265">
+    <state width="2006" height="295" key="GridCell.Tab.0.center/0.23.2048.1075@0.23.2048.1075" timestamp="1586315458095" />
+    <state width="2006" height="295" key="GridCell.Tab.0.left" timestamp="1586315458095">
       <screen x="0" y="23" width="2048" height="1075" />
     </state>
-    <state width="2006" height="295" key="GridCell.Tab.0.left/0.23.2048.1075@0.23.2048.1075" timestamp="1586315187265" />
-    <state width="2006" height="295" key="GridCell.Tab.0.right" timestamp="1586315187267">
+    <state width="2006" height="295" key="GridCell.Tab.0.left/0.23.2048.1075@0.23.2048.1075" timestamp="1586315458095" />
+    <state width="2006" height="295" key="GridCell.Tab.0.right" timestamp="1586315458096">
       <screen x="0" y="23" width="2048" height="1075" />
     </state>
-    <state width="2006" height="295" key="GridCell.Tab.0.right/0.23.2048.1075@0.23.2048.1075" timestamp="1586315187267" />
+    <state width="2006" height="295" key="GridCell.Tab.0.right/0.23.2048.1075@0.23.2048.1075" timestamp="1586315458096" />
     <state x="525" y="199" key="SettingsEditor" timestamp="1586314029012">
       <screen x="0" y="23" width="2048" height="1075" />
     </state>
     <state x="525" y="199" key="SettingsEditor/0.23.2048.1075@0.23.2048.1075" timestamp="1586314029012" />
-    <state width="500" height="445" key="SwitcherDM" timestamp="1586314279131">
+    <state width="500" height="445" key="SwitcherDM" timestamp="1586315426971">
       <screen x="0" y="23" width="2048" height="1075" />
     </state>
-    <state width="500" height="445" key="SwitcherDM/0.23.2048.1075@0.23.2048.1075" timestamp="1586314279131" />
+    <state width="500" height="445" key="SwitcherDM/0.23.2048.1075@0.23.2048.1075" timestamp="1586315426971" />
     <state x="782" y="294" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1586315148088">
       <screen x="0" y="23" width="2048" height="1075" />
     </state>
