@@ -5,5 +5,9 @@ public class Calculator {
         return i + j;
     }
 
+    int subtract(int m, int n){
+        return m - n;
+    }
+
 
 }

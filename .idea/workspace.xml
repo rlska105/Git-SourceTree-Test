@@ -47,7 +47,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CalculatorTest.add">
+  <component name="RunManager" selected="JUnit.CalculatorTest.subtract">
     <configuration name="CalculatorTest.add" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -84,8 +84,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CalculatorTest.subtract" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SourceTreeTest.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.test" />
+      <option name="MAIN_CLASS_NAME" value="com.example.test.CalculatorTest" />
+      <option name="METHOD_NAME" value="subtract" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CalculatorTest.subtract" />
         <item itemvalue="JUnit.CalculatorTest.add" />
         <item itemvalue="Gradle.CalculatorTest.add" />
       </list>
@@ -109,22 +126,22 @@
       <screen x="0" y="23" width="2048" height="1075" />
     </state>
     <state x="624" y="225" key="#Project_Structure/0.23.2048.1075@0.23.2048.1075" timestamp="1586313652156" />
-    <state width="2006" height="295" key="GridCell.Tab.0.bottom" timestamp="1586314410618">
+    <state width="2006" height="295" key="GridCell.Tab.0.bottom" timestamp="1586315187267">
       <screen x="0" y="23" width="2048" height="1075" />
     </state>
-    <state width="2006" height="295" key="GridCell.Tab.0.bottom/0.23.2048.1075@0.23.2048.1075" timestamp="1586314410618" />
-    <state width="2006" height="295" key="GridCell.Tab.0.center" timestamp="1586314410617">
+    <state width="2006" height="295" key="GridCell.Tab.0.bottom/0.23.2048.1075@0.23.2048.1075" timestamp="1586315187267" />
+    <state width="2006" height="295" key="GridCell.Tab.0.center" timestamp="1586315187266">
       <screen x="0" y="23" width="2048" height="1075" />
     </state>
-    <state width="2006" height="295" key="GridCell.Tab.0.center/0.23.2048.1075@0.23.2048.1075" timestamp="1586314410617" />
-    <state width="2006" height="295" key="GridCell.Tab.0.left" timestamp="1586314410617">
+    <state width="2006" height="295" key="GridCell.Tab.0.center/0.23.2048.1075@0.23.2048.1075" timestamp="1586315187266" />
+    <state width="2006" height="295" key="GridCell.Tab.0.left" timestamp="1586315187265">
       <screen x="0" y="23" width="2048" height="1075" />
     </state>
-    <state width="2006" height="295" key="GridCell.Tab.0.left/0.23.2048.1075@0.23.2048.1075" timestamp="1586314410617" />
-    <state width="2006" height="295" key="GridCell.Tab.0.right" timestamp="1586314410618">
+    <state width="2006" height="295" key="GridCell.Tab.0.left/0.23.2048.1075@0.23.2048.1075" timestamp="1586315187265" />
+    <state width="2006" height="295" key="GridCell.Tab.0.right" timestamp="1586315187267">
       <screen x="0" y="23" width="2048" height="1075" />
     </state>
-    <state width="2006" height="295" key="GridCell.Tab.0.right/0.23.2048.1075@0.23.2048.1075" timestamp="1586314410618" />
+    <state width="2006" height="295" key="GridCell.Tab.0.right/0.23.2048.1075@0.23.2048.1075" timestamp="1586315187267" />
     <state x="525" y="199" key="SettingsEditor" timestamp="1586314029012">
       <screen x="0" y="23" width="2048" height="1075" />
     </state>
@@ -133,9 +150,13 @@
       <screen x="0" y="23" width="2048" height="1075" />
     </state>
     <state width="500" height="445" key="SwitcherDM/0.23.2048.1075@0.23.2048.1075" timestamp="1586314279131" />
-    <state x="782" y="294" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1586313784240">
+    <state x="782" y="294" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1586315148088">
       <screen x="0" y="23" width="2048" height="1075" />
     </state>
-    <state x="782" y="294" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.2048.1075@0.23.2048.1075" timestamp="1586313784240" />
+    <state x="782" y="294" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.2048.1075@0.23.2048.1075" timestamp="1586315148088" />
+    <state x="689" y="262" width="670" height="676" key="search.everywhere.popup" timestamp="1586315153842">
+      <screen x="0" y="23" width="2048" height="1075" />
+    </state>
+    <state x="689" y="262" width="670" height="676" key="search.everywhere.popup/0.23.2048.1075@0.23.2048.1075" timestamp="1586315153842" />
   </component>
 </project>
